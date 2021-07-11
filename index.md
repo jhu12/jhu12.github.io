@@ -2,6 +2,8 @@
 
 Welcome to my page!
 
+Click [here](https://jhu12.github.io/git.html) for a brief explanation of Git.
+
 ### How Git works:
 
 Git is a version control system. This means that it will keep the best, working version of a project on 'main', and you can create a 'branch' to develop or experiment, then merge it back to the main branch when the work is ready. This ensures that there is always the 'good' version and the changes you make must be approved before put into place. You can also make experimental versions to test what works better.
