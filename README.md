@@ -1,2 +1,2 @@
-# jhu12.github.io
- Jack's Github Page
+# Jack Hu
+Github Page
