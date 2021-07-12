@@ -9,4 +9,7 @@ Here are some of the steps to create a Github Pages website.
 
 4. Add other .md or .html files. They will be published at links under the same path as they are placed in the repository.
 
+
+Note that the published page my take up to 20 minutes to load new changes.
+
 Here is the [documentation for Github Pages](https://docs.github.com/en/pages).
