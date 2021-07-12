@@ -3,10 +3,12 @@
 Welcome! You can click the big link at the top of the page to return to this page.
 
 
-**How Git Works:** Click [here](https://jhu12.github.io/git.html) for a brief explanation of Git.
+[**How Git Works:**](https://jhu12.github.io/git.html) A brief explanation of Git.
+
+[**Research assistant work:**](https://jhu12.github.io/projects/list.html) A few samples of my recent work as a research assistant.
 
 
-### Steps to creating an amazing page just like mine:
+**Steps to creating an amazing page just like mine:**
 
 Create a new **public** repository, it must have the name *username*.github.io.
 
