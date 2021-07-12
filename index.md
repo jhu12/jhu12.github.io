@@ -3,7 +3,7 @@
 Welcome! You can click the big link at the top of the page to return to this page.
 
 
-[**How Git Works:**](https://jhu12.github.io/git.html) A brief explanation of Git.
+[**How Git Works:**](https://jhu12.github.io/git_tutorial.html) A brief explanation of Git.
 
 [**Research assistant:**](https://jhu12.github.io/projects/list.html) A few samples of my recent work.
 
