@@ -1,7 +1,13 @@
 # Hi! My name is Jack, I am a 4th year UBC student studying business and computer science.
 
+Below are a few samples of my recent work as a research assistant. I have been using R and R Markdown to create data visualizations which help to clearly and effectively communicate findings from the experiment.
 
-This page serves as a portfolio of some of my recent work as a research assistant at UBC.
+[Figure 4](https://jhu12.github.io/samples/fig4.html)
 
+[Figures 7 and 8](https://jhu12.github.io/samples/fig7_8.html)
+
+[Synthetic Control Analysis](https://jhu12.github.io/samples/synth_control_region.html)
+
+[Predictive value vs. Privacy cost of online shopping metrics](https://jhu12.github.io/samples/predictive_privacy.html)
 
 
