@@ -1,9 +1,11 @@
-# Hi! My name is Jack, I am a 4th year UBC student studying business and computer science.
+# Hi, I'm Jack!
+
+I'm a 4th year UBC student studying business and computer science. I am currently searching for a 4 or 8 month co-op job to start in January 2022.
 
 
 ## Research Work
 
-Since May 2021, I have been working as an undergreaduate research assistant to professor Arslan Aziz at UBC Sauder School of Business. Below are a few samples of my contribution to his work. I have been using R to create visualizations which help to clearly and effectively communicate findings from the experiment data.
+Since May 2021, I have been working as an undergraduate research assistant to professor Arslan Aziz at UBC Sauder School of Business. Below are a few samples of my work. I have been using R to create visualizations which help to clearly and effectively communicate findings from the experiment data.
 
 [Figure 4: User Activity Levels](https://jhu12.github.io/samples/fig4.html)
 
