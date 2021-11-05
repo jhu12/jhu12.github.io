@@ -1,7 +1,7 @@
 # Hi! My name is Jack, I am a 4th year UBC student studying business and computer science.
 
 
-# Research Work
+## Research Work
 
 Since May 2021, I have been working as an undergreaduate research assistant to professor Arslan Aziz at UBC Sauder School of Business. Below are a few samples of my contribution to his work. I have been using R to create visualizations which help to clearly and effectively communicate findings from the experiment data.
 
