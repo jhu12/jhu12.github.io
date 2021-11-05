@@ -1,4 +1,4 @@
-# Jack Hu
+### Jack Hu
 
 Hi! My name is Jack, I am a 4th year UBC student studying business and computer science.
 
