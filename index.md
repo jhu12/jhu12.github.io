@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm a 4th year UBC student studying business and computer science, and currently searching for a 4 or 8 month co-op job to start in January 2022. My strengths lie at the intersection of data analysis and business thinking, and I'm passionate about using technology to create value. I am open-minded, reflective, and eager to learn!
+Hi! I'm a 4th year UBC student studying business and computer science, and currently working as an assistant in the Office of Pediatric Surgical Evaluation and Innovation at BC Children's Hospital Research Institute. My strengths lie at the intersection of data analysis and business thinking, and I'm passionate about using technology to create value. I am open-minded, reflective, and eager to learn!
 
 
 ## Research Work
