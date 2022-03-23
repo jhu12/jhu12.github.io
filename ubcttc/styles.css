@@ -1,9 +1,14 @@
 body {
-    background-color: powderblue;
+    background-image: url("malong.jpeg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   h1 {
-    color: blue;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-stroke: 2px black;
+    color: white;
+    font-family: Comic Sans MS;
+    text-align: center;
   }
   p {
     color: red;
