@@ -1,15 +1,27 @@
 body {
     background-image: url("malong.jpeg");
     height: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #deeaee;
+    background-position: center top;
   }
   h1 {
-    -webkit-text-stroke: 2px black;
     color: white;
-    font-family: Comic Sans MS;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    padding-top: 10px;
+    font-size: 42px;
   }
-  p {
-    color: red;
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    background-color: #deeaee;
+    
+  }
+  td, th {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
