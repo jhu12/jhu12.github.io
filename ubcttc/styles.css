@@ -1,27 +1,31 @@
-body {
-    background-image: url("malong.jpeg");
-    height: auto;
-    background-color: #deeaee;
-    background-position: center top;
-  }
-  h1 {
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    padding-top: 10px;
-    font-size: 42px;
-  }
-  table {
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 15px;
-    background-color: #deeaee;
-    
-  }
-  td, th {
-    padding-right: 15px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-  }
+html {
+  min-height:100%;
+  background-image: url("malong-1.jpg");
+  background-attachment: scroll;
+  background-repeat:no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  max-width: 600px;
+}
+h1 {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 42px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 15px;
+  background-color: rgb(50, 90, 130);  
+}
+td, th {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  opacity:1;
+  color: white;
+}
