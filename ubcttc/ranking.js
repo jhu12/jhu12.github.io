@@ -1,9 +1,13 @@
 "use strict"
 
-let ata = new Player("Ata", 2000, 1, null);
-let ruchit = new Player("Ruchit", 1000, 2, null);
-let jack = new Player("Jack", 1000, 3, null);
-const players = [ata, ruchit, jack];
+let emily = new Player("Emily", 10000, 1, null)
+let ata = new Player("Ata", 2000, 2, null);
+let ruchit = new Player("Ruchit", 1000, 3, null);
+let jack = new Player("Jack", 1000, 4, null);
+const players = [emily, ata, ruchit, jack,
+    emily, ata, ruchit, jack,
+    emily, ata, ruchit, jack,
+    emily, ata, ruchit, jack];
 
 printRankings();
 
