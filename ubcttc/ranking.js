@@ -1,13 +1,22 @@
 "use strict"
+// Object.defineProperty(exports, "__esModule", { value: true });
 
-let emily = new Player("Emily", 10000, 1, null)
+// let fs = require('fs');
+
+let emily = new Player("Emily", 6900, 1, null)
 let ata = new Player("Ata", 2000, 2, null);
 let ruchit = new Player("Ruchit", 1000, 3, null);
 let jack = new Player("Jack", 1000, 4, null);
-const players = [emily, ata, ruchit, jack,
-    emily, ata, ruchit, jack,
-    emily, ata, ruchit, jack,
-    emily, ata, ruchit, jack];
+let players = [emily, ata, ruchit, jack, emily, ata, ruchit, jack, emily, ata, ruchit, jack, emily, ata, ruchit, jack];
+
+// const json = JSON.stringify(players);
+
+// fs.writeFile('ranking.js', json, 'utf8', function(err){
+//     if(err){ 
+//           console.log(err); 
+//     } else {
+//           //Everything went OK!
+//     }});
 
 printRankings();
 
@@ -22,7 +31,7 @@ function printRankings() {
     cell.appendChild(cell_value);
     row.appendChild(cell);
     var cell = document.createElement("th");
-    var cell_value = document.createTextNode("Player Name");
+    var cell_value = document.createTextNode("Player");
     cell.appendChild(cell_value);
     row.appendChild(cell);
     var cell = document.createElement("th");
