@@ -2,12 +2,12 @@
 
 ## About Me
 
-Hi! I'm a 4th year UBC student studying business and computer science, and currently working as an assistant in the Office of Pediatric Surgical Evaluation and Innovation at BC Children's Hospital Research Institute. My strengths lie at the intersection of data analysis and business thinking, and I'm passionate about using technology to create value. I am open-minded, reflective, and eager to learn!
+Hi! I'm a 4th year UBC student studying business and computer science, and currently working as an assistant with the Hippy Research Lab at BC Children's Hospital. My strengths lie at the intersection of data analysis and business thinking. Having one year of full time experience working at BC Children's Hospital, I am passionate about using technology to create value in the field of healthcare. I am open-minded, reflective, and eager to learn!
 
 
 ## Research Work
 
-Since May 2021, I have been working as an undergraduate research assistant to professor Arslan Aziz at UBC Sauder School of Business. Below are a few samples of my work. I have been using R to create visualizations which help to clearly and effectively communicate findings from the experiment data.
+In 2021, I worked as an undergraduate research assistant to professor Arslan Aziz at UBC Sauder School of Business. Below are a few samples of my work. I mainly used R to create visualizations which helped to clearly and effectively communicate findings from experiment data.
 
 [Figure 4: User Activity Levels](https://jhu12.github.io/samples/fig4.html)
 
